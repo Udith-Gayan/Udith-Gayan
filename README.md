@@ -1,4 +1,9 @@
-### Hi there 👋
+##                Hi there 👋, I'm Udith Gayan Indrakantha
+_________
+#### An undergraduate of FIT, UoM who is passionate about programming and willing to try and play with new technologies
+
+* 📝 An article writer on medium .com - https://medium.com/@udith.indrakantha
+* 
 
 <!--
 **Udith-Gayan/Udith-Gayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
