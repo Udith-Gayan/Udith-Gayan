@@ -27,7 +27,7 @@
 
 <img src="./Assets/angular.png" width="50">
 <img src="./Assets/boot.png" width="80">
-<img src="./Assets/vue.png" width="43">
+<img src="./Assets/vue.png" width="43" style="float">
 <img src="./Assets/angular.svg" color="red" width="40">
 
 
