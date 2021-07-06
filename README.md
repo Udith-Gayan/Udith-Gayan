@@ -22,6 +22,9 @@
 -   🔧  Visual Studio | IntelliJ | Visual Studio code | Eclipse | Git
 -   🖥   Photoshop 
 
+
+[![Udith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udith-Gayan)](https://github.com/Udith-Gayan/github-readme-stats)
+
 <!--
 **Udith-Gayan/Udith-Gayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
