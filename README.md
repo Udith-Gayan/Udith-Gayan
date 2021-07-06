@@ -22,18 +22,16 @@
 -   🔧  Visual Studio | IntelliJ | Visual Studio code | Eclipse | Git
 -   🖥   Photoshop 
 
-
+<!-- 
 ![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<img src="./Assets/angular.png" width="50">
-<img src="./Assets/boot.png" width="80">
-<img src="./Assets/vue.png" width="43" style="float">
+
 <img src="./Assets/angular.svg" color="red" width="40">
 
 
 
 
-<br /><br />
+<br /><br /> -->
 
 [![Udith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udith-Gayan&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Udith-Gayan/github-readme-stats)
 
