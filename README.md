@@ -25,30 +25,17 @@
 
 ![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-
-<div>
- <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.931 12.645h4.138l-2.07-4.908m0-7.737L.68 3.982l1.726 14.771L12 24l9.596-5.242L23.32 3.984 11.999.001zm7.064 18.31h-2.638l-1.422-3.503H8.996l-1.422 3.504h-2.64L12 2.65z"/></svg>
-</div>
-
-
+<img src="./Assets/angular.png" width="50">
+<img src="./Assets/boot.png" width="80">
+<img src="./Assets/vue.png" width="43">
+<img src="./Assets/angular.svg" color="red" width="40">
 
 
+
+
+<br /><br />
 
 [![Udith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udith-Gayan&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Udith-Gayan/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udith-Gayan&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Udith-Gayan/github-readme-stats)
-<!--
-**Udith-Gayan/Udith-Gayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
