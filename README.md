@@ -7,7 +7,7 @@
 
 ### 🤵  About Me:
  - 📝 I regulary write articles on [medium.com](https://medium.com/@udith.indrakantha) 
- - 😄  Pronouns: He/Him or Teamplayer😉
+ - 😄  Pronouns: He/Him or Team player😉
  - 🌱  I’m currently working on one of own projects.
  
 
@@ -42,10 +42,8 @@
 <img src="./Assets/azuredevops.svg"  width="32" style="margin-left: 5px" />
 </p>
 
-
-
-<br /><br />
-
+<br />
+<!-- Github Stat Card -->
 [![Udith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udith-Gayan&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Udith-Gayan/github-readme-stats)
 
 
