@@ -23,15 +23,31 @@
 -   🖥   Photoshop 
 
 <!-- 
-![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
 
-<img src="./Assets/angular.svg" color="red" width="40">
+<center>
+
+<img src="./Assets/angular.svg"  width="34">
+<img src="./Assets/java.svg"  width="40" style="">
+<img src="./Assets/c.svg"  width="33" style="">
+<img src="./Assets/boot.png"  width="60" style="">
+<img src="./Assets/vue.png"  width="34" style="margin-left: -5px">
+<img src="./Assets/typescript.svg"  width="30" style="margin-left: 15px">
+<img src="./Assets/javascript.svg"  width="30" style="margin-left: 15px">
+<img src="./Assets/python.svg"  width="30" style="margin-left: 15px">
+<img src="./Assets/svelte.svg"  width="30" style="margin-left: 10px">
+<img src="./Assets/firebase.svg"  width="30" style="margin-left: 0px">
+<img src="./Assets/ionic.svg"  width="30" style="margin-left: 5px">
+<img src="./Assets/core.png"  width="110" style="margin-left: 5px">
+<img src="./Assets/mssql.png"  width="40" style="margin-left: 5px">
+<img src="./Assets/azuredevops.svg"  width="32" style="margin-left: 5px">
+
+</center>
 
 
 
-
-<br /><br /> -->
+<br /><br />
 
 [![Udith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udith-Gayan&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Udith-Gayan/github-readme-stats)
 
